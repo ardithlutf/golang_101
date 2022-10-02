@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/ardith/golang_101/handlers"
+	"github.com/ardithlutf/handlers"
 )
 
 func main() {
